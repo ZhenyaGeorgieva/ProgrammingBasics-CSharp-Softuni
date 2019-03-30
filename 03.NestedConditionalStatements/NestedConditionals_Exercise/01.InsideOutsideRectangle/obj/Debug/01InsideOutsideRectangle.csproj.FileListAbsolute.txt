@@ -1,0 +1,7 @@
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\bin\Debug\04NestedConditionals_Exercise.exe.config
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\bin\Debug\04NestedConditionals_Exercise.exe
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\bin\Debug\04NestedConditionals_Exercise.pdb
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\obj\Debug\01InsideOutsideRectangle.csprojAssemblyReference.cache
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\obj\Debug\01InsideOutsideRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\obj\Debug\04NestedConditionals_Exercise.exe
+C:\Users\Andro\Desktop\Софтуни\Intro Programming C#\04NestedConditionals_Exercise\04NestedConditionals_Exercise\obj\Debug\04NestedConditionals_Exercise.pdb

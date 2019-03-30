@@ -38,9 +38,9 @@
 
 -   Ако стигнете до командата **"Done"** и има още свободно място:
 
->   **"{брой кашони} Cubic meters left."**
+   **"{брой кашони} Cubic meters left."**
 
 -   Ако свободното място свърши преди да е дошла команда **"Done":**
 
->   **"No more free space! You need {брой недостигащи куб. метри} Cubic meters
->   more."**
+   **"No more free space! You need {брой недостигащи куб. метри} Cubic meters
+   more."**
